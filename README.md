@@ -1,2 +1,1 @@
-# sugamahomestay.in
- sugama project
+# sugamahomestay.com
